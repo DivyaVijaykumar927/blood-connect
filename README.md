@@ -119,23 +119,7 @@ Example Response:
 
 ---
 
-## Screenshots
 
-Add screenshots here after deployment.
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
-### Donors Page
-
-![Donors Page](screenshots/donors.png)
-
-### Requests Page
-
-![Requests Page](screenshots/requests.png)
-
----
 
 ## Future Enhancements
 
