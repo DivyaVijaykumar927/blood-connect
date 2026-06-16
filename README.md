@@ -87,19 +87,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 uvicorn app.main:app --reload
-```
-
-Backend runs on:
-
-```text
-http://127.0.0.1:8000
-```
-
-Swagger Documentation:
-
-```text
-http://127.0.0.1:8000/docs
-```
 
 ---
 
