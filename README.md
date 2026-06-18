@@ -131,6 +131,8 @@ Example Response:
 
 ---
 <img width="1766" height="891" alt="IMAGE_1" src="https://github.com/user-attachments/assets/9c5cdfa0-4552-4b58-80f2-05063b4303e5" />
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/110addef-fe22-4b98-966c-9efeb5c7b9b7" />
+
 
 ## Author
 Divya Vijaykumar
