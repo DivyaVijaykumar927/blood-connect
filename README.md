@@ -130,10 +130,7 @@ Example Response:
 * Mobile Responsive Improvements
 
 ---
+<img width="1766" height="891" alt="IMAGE_1" src="https://github.com/user-attachments/assets/9c5cdfa0-4552-4b58-80f2-05063b4303e5" />
 
 ## Author
-
-<img width="1907" height="962" alt="image" src="https://github.com/user-attachments/assets/bb70405a-c509-4a81-ba57-737dab7bb445" />
-
-
 Divya Vijaykumar
